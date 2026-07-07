@@ -1,0 +1,42 @@
+{
+  "identifier": "ridgeride",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Ridge Ride Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "ridgeride_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlocks trail condition notes and personal best tracking per trail.",
+              "displayName": "Ridge Ride Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "ridgeride_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Ridge Ride Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
